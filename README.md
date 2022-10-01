@@ -1,6 +1,8 @@
 # open_react
 This is a open-source contribution repository, specially for people new to open-source.
+
 Steps to contribute:
+
 1> Create an issue,
 
 2> Ask for assignment, & for labeling
